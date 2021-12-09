@@ -206,3 +206,19 @@ Received Import Request.
 Start importing Assets/ReadexPro-Regular SDF.asset using Guid(ec97931937c81411297e558efc6b2dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e3478e3d8d661b19fba48b9061f6ba') in 0.287055 seconds 
   Import took 0.339844 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 400.009493 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31d09850e079c4c77073532874e4c7b') in 0.062693 seconds 
+  Import took 0.076102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.016712 seconds.
+  path: Assets/Button.prefab
+  artifactKey: Guid(9e79b295236d64ab4a1a31bffbc6f82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Button.prefab using Guid(9e79b295236d64ab4a1a31bffbc6f82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121077ea2eebb57298db8704dc1f26fc') in 1.150002 seconds 
+  Import took 1.164390 seconds .
+
