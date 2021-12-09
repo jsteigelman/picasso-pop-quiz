@@ -198,3 +198,11 @@ Received Import Request.
 Start importing Assets/ReadexPro-Regular SDF.asset using Guid(ec97931937c81411297e558efc6b2dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a282feeedaa6f9ef8c7ed354fec834b6') in 0.157445 seconds 
   Import took 0.166311 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1732.826994 seconds.
+  path: Assets/ReadexPro-Regular SDF.asset
+  artifactKey: Guid(ec97931937c81411297e558efc6b2dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ReadexPro-Regular SDF.asset using Guid(ec97931937c81411297e558efc6b2dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e3478e3d8d661b19fba48b9061f6ba') in 0.287055 seconds 
+  Import took 0.339844 seconds .
+
